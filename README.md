@@ -94,10 +94,24 @@ Chapter Summary
     •  Dont be afraid to dive in.
     •  Beware of Heisenberg (Dont let instruments overwhelm your system) (Not Walter White).
     •  Guess only to focus your search.
+
     
-    
-  
-  
+Divide and Conquer
+
+    •  Agans mentions a technician who is debugging a terminal and correctly implements the other methods of debugging but highlights the strategy or divide and conquer to rule "bad halves" out
+    •  He also mentions successive approximation which is explained as starting at one end of the range and then going halfway to the other end to see if you're past or not. Continued by going 3/4ths ect...
+    •  When applying this you should try to start at the bad end and work your way up
+    •  Its hard for a bug to keep hiding when its hiding place keeps getting cut in half
+
+    Chapter Summary
+
+    •  Narrow the search with successive approximattion (Guess from 0-100 in 7 guesses)
+    •  Get the range ( If the number = 135, then guess 100 then widen it)
+    •  Determine which side of the bug you are on (Try to be in the bad)
+    •  Use easy to spot test patterns ( Start with clear water and make it obvious when goo enters)
+    •  Start with the bad (Start broken and work your way up)
+    •  Fix the bugs you know about (They can interact with eachother creating a mess)
+    •  Fix the noise first ( Watch for things that will screw up the rest of the system)
 
 
     

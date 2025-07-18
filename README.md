@@ -128,5 +128,5 @@ Chapter Summary
     •  Grab the brass bar with both hands (If you try to fix a nuke without knowing whats wrong, you can make it worse)
     •  Change one test at a time 
     •  Compare the result with a good one.
-    •  Deternube what changed since it last worked.
+    •  Determine what changed since it last worked.
     

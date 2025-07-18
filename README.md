@@ -113,5 +113,20 @@ Divide and Conquer
     •  Fix the bugs you know about (They can interact with eachother creating a mess)
     •  Fix the noise first ( Watch for things that will screw up the rest of the system)
 
+    
+Change one thing at a time
 
+    •  Agans mentions that sometimes you need to take a step back and observe, he references the brass bar in nuclear plants. If something urgent happens employees are trained to first hold on to the bar and             observe. It is better to do nothing sometimes than mess it up more.
+    •  Another strategy he mentions is comparing to a good one, he mentions 2 debug logs side by side. 1 with the bug and 1 thats in good condition. Going though these although boring can be effective.
+    •  If you replace 4 parts on a board to fix your problem. Great you fixed it, but you now have no idea what was broken. So just replace one thing at a time and keep in mind
+       of what changed since it last worked.
+    •  Its hard for a bug to keep hiding when its hiding place keeps getting cut in half
+    
+Chapter Summary
+
+    •  Isolate key factors (Dont change the watering schedule if you're looking for the effect of the sunlight
+    •  Grab the brass bar with both hands (If you try to fix a nuke without knowing whats wrong, you can make it worse)
+    •  Change one test at a time 
+    •  Compare the result with a good one.
+    •  Deternube what changed since it last worked.
     

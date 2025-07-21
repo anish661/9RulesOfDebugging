@@ -114,7 +114,7 @@ Divide and Conquer
     •  Fix the noise first ( Watch for things that will screw up the rest of the system)
 
     
-Change one thing at a time
+Change One Thing At A Time
 
     •  Agans mentions that sometimes you need to take a step back and observe, he references the brass bar in nuclear plants. If something urgent happens employees are trained to first hold on to the bar and             observe. It is better to do nothing sometimes than mess it up more.
     •  Another strategy he mentions is comparing to a good one, he mentions 2 debug logs side by side. 1 with the bug and 1 thats in good condition. Going though these although boring can be effective.

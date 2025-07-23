@@ -128,4 +128,21 @@ Chapter Summary
     •  Change one test at a time 
     •  Compare the result with a good one.
     •  Determine what changed since it last worked.
+
+Change One Thing At A Time
+
+    •  Sometimes the most indistinguishable factors can have an effect on a problem. Agans mentions a war story where the pattern of his shirt was making the fps on a camera plummet from 30FPS to 2FPS.
+    •  Version control can help with some of this for developers by tracking code added / code built and also helps you not trample others
+    •  The human memory is weaker than you might realize. Even those with good memory might remember overall concepts but forget small and important details.
+    •  It is better to write things down instead of trying to rely on your memory. 
+    
+Chapter Summary
+
+    •  Write down what you did, in what order, and what happened as a result
+    •  Understand that any detail could be the important one. (Even your shirt!)
+    •  Correlate events (It failed at 43 seconds in > it failed)
+    •  Understand that audit trails for design are also good for testing
+    •  Write it down
+
+    
     

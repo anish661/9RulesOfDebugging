@@ -144,5 +144,33 @@ Chapter Summary
     •  Understand that audit trails for design are also good for testing
     •  Write it down
 
+
+Check The Plug
+
+    • Very simple, check your assumptions
+    
+Chapter Summary
+
+    • Start at the beginning 
+    • Test the tool
+
+   Get A Fresh View
+   
+    •  The war stories in this chapter typically have Agans dealing with inconceivable solutions to problems.
+       he details that he would have to spend alot of time and become an expert on the whole system to figure out something small, whereas the better solution is just to ask
+    •  He also tells us how when asking questions theres a method to pull the best results by not imparting your biases onto the person with a fresh view.
+    •  Understand that audit trails for design are also good for testing
+    •  Write it down
+
+    Chapter Summary
+
+    • Ask for fresh insights (Anyone can help you see something that you didnt)
+    • Tap into expertise
+    • Listen to the voice of experience (They may have had a similar problem already)
+    • Know that help is all around you (People / published information)
+    • Dont be proud
+    • Report symptoms, not theories ( Keep your theories and biases to yourself if your theories were good you'd have fixed it)
+    • You dont have to be sure about anything
+
     
     
